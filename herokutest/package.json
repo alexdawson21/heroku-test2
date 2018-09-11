@@ -1,0 +1,17 @@
+{
+  "name": "herokutest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "mysql-cli": "0.0.3",
+    "mysql2": "^1.6.1"
+  }
+}
